@@ -1,10 +1,10 @@
-# In this scrip can simulate a random walker with one or more "random walkers", to graphic is used matplotlib.
+# In this script can simulate a random walker with one or more "random walkers", to graphic is used matplotlib.
 
 ## Example of use
 
 Suppose you want simulate two random walkers for 1000 steps. You should run the next in your command line.
 
-`python main.py --walker 2 --steps 1000`
+`python main.py --walker 4 --steps 10000`
 
 ![random walker example](rw1.png "Random Walker")
 
