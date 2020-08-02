@@ -1,4 +1,4 @@
-# In this script can simulate a random walker with one or more "random walkers", to graphic is used matplotlib.
+# In this script can simulate a random walker with one or more "random walkers".
 
 ## Example of use
 
